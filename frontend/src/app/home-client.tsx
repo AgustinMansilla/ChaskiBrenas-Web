@@ -197,7 +197,7 @@ export default function HomeClient({ posts, initialNews = posts, initialCursor =
       <header className="border-t-[5px] border-black bg-white">
         <div className="site-masthead mx-auto grid min-w-0 max-w-[1900px] items-center gap-x-6 px-[4vw] py-2 xl:grid-cols-[minmax(280px,380px)_minmax(0,1fr)] xl:grid-rows-[42px_auto] 2xl:grid-cols-[minmax(360px,520px)_minmax(0,1fr)]">
           <Link href="/" className="site-logo group flex min-w-0 h-[84px] items-center overflow-hidden sm:h-[96px] xl:row-span-2" aria-label="Chaski Breñas, inicio">
-            <img src="/logo-chaski-oficial.png" alt="Chaski Breñas, las noticias llegan" className="h-[150px] w-auto max-w-full object-contain transition-transform group-hover:scale-[1.01]" />
+            <img src="https://xn--chaskibreas-9db.com.ar/logo-chaski-oficial.png" alt="Chaski Breñas, las noticias llegan" className="h-[150px] w-auto max-w-full object-contain transition-transform group-hover:scale-[1.01]" />
           </Link>
 
           <div className="hidden items-center justify-end gap-4 xl:flex">
