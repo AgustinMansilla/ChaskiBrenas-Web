@@ -25,7 +25,7 @@ Portal web informativo de Las Breñas, Chaco, con noticias locales y regionales,
 
 ## Interfaz y código
 
-- [**Portal original**](demo/index.html): acceso a la web de noticias de Chaski Breñas con su diseño real.
+- [**Visitar el portal original de Chaski Breñas**](https://xn--chaskibreas-9db.com.ar/): sitio de noticias publicado, con su navegación y contenido real.
 - [**Frontend**](frontend/): componentes originales de la portada, navegación, noticias, publicidad y servicios comunitarios, con los estilos y configuración de React.
 - [**Noticias y publicidad**](frontend/src/main.tsx): seis titulares publicados de la web y un anuncio de ejemplo para la carga de la interfaz.
 - [**Publicidad de ejemplo**](frontend/public/publicidad-ejemplo.svg): recurso gráfico incluido en la presentación.
@@ -34,8 +34,6 @@ Portal web informativo de Las Breñas, Chaco, con noticias locales y regionales,
 
 ```text
 ChaskiBrenas-Web/
-├── demo/
-│   └── index.html
 ├── frontend/
 │   ├── src/
 │   │   ├── app/
